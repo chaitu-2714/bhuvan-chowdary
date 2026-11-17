@@ -1,0 +1,11 @@
+{
+    "class_name": "A",
+    "gesture_type": "static",
+    "participant_id": "P001",
+    "session_id": "S001",
+    "timestamp": "2026-08-17T19:13:49.087243",
+    "hand_count": 1,
+    "landmark_quality": "Good",
+    "detection_confidence": 0.9836486577987671,
+    "feature_version": "v1_normalized_wrist_scale"
+}
